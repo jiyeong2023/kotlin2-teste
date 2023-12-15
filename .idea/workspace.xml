@@ -5,65 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2d55b18-38be-4320-bb7a-dc94bf1c8425" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/example/Archer.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/example/Character.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/example/GreenSlimeSkill.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/example/Monster.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/example/PRG.Kr.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/example/Slime.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/example/WaterBirdBehavior.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/example/Wizard.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/example/WorldMain.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/example/Zombie.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/homework/Calculator.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/myapplication/example/Archer.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/myapplication/example/Character.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/myapplication/example/GreenSlimeSkill.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/myapplication/example/Monster.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/myapplication/example/PRG.Kr.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/myapplication/example/Slime.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/myapplication/example/WaterBirdBehavior.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/myapplication/example/Wizard.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/myapplication/example/WorldMain.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/myapplication/example/Zombie.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/myapplication/homework/Calculator.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/myapplication/homework/Calculator1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/myapplication/test/java/com/example/bird.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/myapplication/test/java/com/example/overlog.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/myapplication/test/java/com/example/test.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/example/bird.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/example/overlog.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/example/test.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/myapplication/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/Archer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/Character.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/GreenSlimeSkill.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/Monster.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/PRG.Kr.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/Slime.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/WaterBirdBehavior.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/Wizard.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/WorldMain.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/Zombie.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/homework/Calculator.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,29 +61,60 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/kotlin/com/example/myapplication/kiosk" />
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2ZG3ixhv0BJ5PvAPkKimjL4EGuK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Gradle.Build kotlin2-teste.executor": "Run",
+    "Gradle.Build kotlin2_test.executor": "Run",
+    "Kotlin.CalculatorKt (1).executor": "Run",
+    "Kotlin.CalculatorKt.executor": "Run",
+    "Kotlin.Kiosk1Kt.executor": "Run",
+    "Kotlin.KioskKt.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "Kotlin.OperatorKt.executor": "Run",
+    "Kotlin.PRGKt (1).executor": "Run",
+    "Kotlin.PRGKt.executor": "Run",
+    "Kotlin.Unnamed.executor": "Run",
+    "Kotlin.WorldMainKt (1).executor": "Run",
     "Kotlin.WorldMainKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "android.gradle.sync.needed": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/cacky/Desktop/kotlin2-teste",
+    "last_opened_file_path": "C:/kotlin/kotlin2_test/src/main/kotlin/com/example/myapplication/kiosk",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -126,18 +123,60 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\cacky\Desktop\kotlin2-teste" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\kotlin\kotlin2-teste\src\main\kotlin\com\example\myapplication\test" />
+      <recent name="C:\kotlin\kotlin2-teste\src\main\kotlin\com\example\myapplication\Calc" />
+      <recent name="C:\kotlin\kotlin2-teste\java\src\main\kotlin\homework" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.myapplication.Calc" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="WorldMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.myapplication.WorldMainKt" />
+  <component name="RunManager" selected="Kotlin.KioskKt">
+    <configuration name="Kiosk1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.myapplication.kiosk1.Kiosk1Kt" />
       <module name="kotlin2-teste.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KioskKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.myapplication.kiosk.KioskKt" />
+      <module name="kotlin2-teste.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kiosk.kt" />
+      <module name="kotlin2-teste" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="kotlin2-teste" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="kotlin2-teste" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.Unnamed" />
+      <item itemvalue="Kotlin.Kiosk1Kt" />
+      <item itemvalue="Kotlin.KioskKt" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.WorldMainKt" />
+        <item itemvalue="Kotlin.KioskKt" />
+        <item itemvalue="Kotlin.Kiosk1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -162,10 +201,25 @@
       <workItem from="1702036090663" duration="117000" />
       <workItem from="1702036233074" duration="157000" />
       <workItem from="1702036410499" duration="203000" />
+      <workItem from="1702037079787" duration="118000" />
+      <workItem from="1702037262483" duration="398000" />
+      <workItem from="1702292643723" duration="2388000" />
+      <workItem from="1702341420463" duration="7092000" />
+      <workItem from="1702375881490" duration="2261000" />
+      <workItem from="1702444041196" duration="2767000" />
+      <workItem from="1702511080724" duration="15118000" />
+      <workItem from="1702540553079" duration="2962000" />
+      <workItem from="1702544115300" duration="8846000" />
+      <workItem from="1702597618440" duration="6532000" />
+      <workItem from="1702606857082" duration="90000" />
+      <workItem from="1702607127645" duration="502000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
